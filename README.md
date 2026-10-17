@@ -81,7 +81,17 @@ cat result.txt
 go run . sample.txt result.txt
 cat result.txt
 ```
+## Testing
 
+to run test
+```bash
+go test ./...
+```
+
+for more details
+```bash
+go test -v ./...
+```
 ## Limitations
 
 - The program only applies the text transformations explicitly supported by its implemented rules. It is not a general-purpose grammar or spell checker.
