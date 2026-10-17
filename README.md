@@ -89,3 +89,7 @@ cat result.txt
 ## Author
 **Abdelkhaleq Elalaoui**
 - **Github:** @abdeleaiso
+
+## Licence
+This project is licenced under the MIT.
+See the [<a href="https://github.com/abdeleaiso/go-reloaded/tree/main?tab=MIT-1-ov-file">LICENCE</a>](LICENCE) file for details
